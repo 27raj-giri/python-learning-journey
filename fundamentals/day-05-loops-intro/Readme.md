@@ -1,30 +1,28 @@
-# Day 4 - List Operations
+# Day 5 - Loops Introduction
 
-**Date:** December 18, 2025  
+**Date:** December 19, 2025  
 **Programs:** 7  
-**Time:** 3 hours  
-**Focus:** List methods, tuple operations, membership testing
+**Time:** 4 hours  
+**Focus:** String slicing, tuple operations, vowel removal, range()
 
 ## Topics Covered
-- Tuple indexing and reordering
-- List append() method
-- List insert() method
-- Tuple immutability workaround
-- Membership testing (in operator)
-- List element modification
-- Finding max and second max
+- Advanced string slicing
+- List slicing and concatenation
+- Tuple unpacking
+- String character replacement
+- range() function basics
 
 ## Programs
-1. reorder_tuple.py - Reorder tuple elements
-2. append_to_list.py - Add elements to list
-3. tuple_append_workaround.py - Modify tuple via list
-4. membership_test.py - Check if element exists
-5. modify_list_element.py - Change list element
-6. find_max_and_second.py - Find largest and second largest
-7. join_with_separator.py - Join strings
+1. reverse_words.py - Reverse words in string
+2. slice_and_combine.py - Advanced slicing
+3. tuple_unpacking_input.py - Unpack user input
+4. remove_vowels.py - Remove all vowels
+5. print_1_to_100.py - Basic range loop
+6. print_100_to_1.py - Reverse range
+7. print_multiples.py - Custom range with step
 
 ## Key Learnings
-- Tuples are immutable but can be converted
-- append() vs insert() usage
-- Membership testing with 'in' operator
-- List sorting and indexing
+- String slicing [::-1] reverses string
+- List concatenation with slicing
+- Tuple packing and unpacking
+- range() with start, stop, step parameters
