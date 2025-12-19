@@ -1,5 +1,0 @@
-tup = ('Aayush', 'Raj')
-temp = list(tup)
-temp.append('Giri')
-tup = tuple(temp)
-print(tup)
