@@ -1,9 +1,9 @@
 # 🐍 Python Practice & Problem Solving Journey
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Days](https://img.shields.io/badge/Days-10-brightgreen.svg)
-![Programs](https://img.shields.io/badge/Programs-71-orange.svg)
-![Streak](https://img.shields.io/badge/Streak-🔥_10_days-red.svg)
+![Days](https://img.shields.io/badge/Days-17-brightgreen.svg)
+![Programs](https://img.shields.io/badge/Programs-129-orange.svg)
+![Streak](https://img.shields.io/badge/Streak-🔥_17_days-red.svg)
 
 > **From fundamentals to AI engineering** — A documented journey of daily problem-solving, logic building, and consistent learning.
 
@@ -12,10 +12,11 @@
 ## 📊 Current Progress
 
 - 🗓️ **Started:** December 15, 2025
-- 📝 **Programs Written:** 71
-- 🔥 **Current Streak:** 10 days (unbroken)
-- 📈 **Topics Covered:** Variables, Conditionals, Strings, Lists, Tuples, Loops, Dictionaries, Sets
-- 🎯 **Next Milestone:** 100 programs (Day 15)
+- 📝 **Programs Written:** 129
+- 🔥 **Current Streak:** 17 days (unbroken)
+- ⏱️ **Total Hours:** 70+ hours of focused practice
+- 📈 **Modules Completed:** Fundamentals, Functions, Recursion
+- 🎯 **Next Milestone:** 150 programs (File I/O module)
 
 ---
 
@@ -52,7 +53,7 @@ Early programs may look simple. **That's intentional.** You can't build a skyscr
 ```
 python-practice/
 │
-├── fundamentals/              # ✅ COMPLETED (71 programs)
+├── 01-fundamentals/           # ✅ COMPLETED (71 programs)
 │   ├── day-01-variables-conditionals/     (8 programs)
 │   ├── day-02-strings-basics/             (7 programs)
 │   ├── day-03-lists-tuples/               (7 programs)
@@ -64,21 +65,25 @@ python-practice/
 │   ├── day-09-dictionaries-advanced/      (7 programs)
 │   └── day-10-sets-comprehensions/        (7 programs)
 │
-├── intermediate/              # 🔄 COMING NEXT (Day 11-30)
-│   ├── functions/             (Coming Day 11-15)
-│   ├── recursion/             (Coming Day 16-20)
-│   ├── file-handling/         (Coming Day 21-25)
-│   └── oops/                  (Coming Day 26-30)
+├── 02-functions/              # ✅ COMPLETED (28 programs)
+│   ├── day-11-functions-basics/           (10 programs)
+│   ├── day-12-functions-intermediate/     (9 programs)
+│   └── day-13-functions-advanced/         (9 programs)
 │
-├── advanced/                  # ⏳ FUTURE (Month 2+)
-│   ├── data-structures/
-│   ├── algorithms/
-│   └── automation/
+├── 03-recursion/              # ✅ COMPLETED (30 programs)
+│   ├── day-14-recursion-basics/           (7 programs)
+│   ├── day-15-recursion-return/           (7 programs)
+│   ├── day-16-recursion-arrays-strings/   (8 programs)
+│   └── day-17-recursion-advanced/         (8 programs)
 │
-├── ai-projects/               # 🚀 FUTURE (Month 3+)
-│   ├── llm-apps/
-│   ├── rag-systems/
-│   └── voice-ai/
+├── 04-file-io/                # 🔄 IN PROGRESS (Days 18-19)
+│   └── Coming soon...
+│
+├── 05-oop/                    # ⏳ UPCOMING (Days 20-23)
+│   └── Coming soon...
+│
+├── notes/                     # 📚 DOCUMENTATION
+│   └── python-fundamentals.md (Complete reference guide)
 │
 └── README.md
 ```
@@ -92,11 +97,13 @@ python-practice/
 | Phase | Duration | Focus | Status |
 |-------|----------|-------|--------|
 | **Phase 1** | Days 1-10 | Python Fundamentals | ✅ **DONE** |
-| **Phase 2** | Days 11-30 | Functions, OOP, Files | 🔄 In Progress |
-| **Phase 3** | Days 31-60 | Data Structures, Algorithms | ⏳ Upcoming |
-| **Phase 4** | Month 3+ | AI Projects, Automation | 🚀 Future |
+| **Phase 2** | Days 11-13 | Functions | ✅ **DONE** |
+| **Phase 3** | Days 14-17 | Recursion | ✅ **DONE** |
+| **Phase 4** | Days 18-19 | File I/O | 🔄 In Progress |
+| **Phase 5** | Days 20-23 | OOP | ⏳ Upcoming |
+| **Phase 6** | Month 2+ | AI Projects | 🚀 Future |
 
-**Commit Strategy:** Daily or near-daily commits that reflect **real learning**, not code dumps.
+**Commit Strategy:** Daily commits that reflect **real learning**, not code dumps.
 
 ---
 
@@ -105,24 +112,20 @@ python-practice/
 Each day's folder contains:
 
 ### 📝 Programs
-- **Small, focused Python files** (one concept per program where possible)
+- **Small, focused Python files** (one concept per program)
 - **Clear variable naming** and readable logic
-- **Incremental difficulty** from basic to logic-intensive
+- **Incremental difficulty** from basic to advanced
+- **Proper docstrings** explaining purpose and concepts
 
 ### 📖 Documentation
 - Day-specific README explaining topics covered
-- Key learnings and challenges faced
-- Proper docstrings in every file
+- Key learnings and patterns discovered
+- Common mistakes and how to avoid them
 
 ### 🎯 Learning Approach
 - **Type, don't copy** — Every line written by hand
 - **Understand, don't memorize** — Know why, not just how
-- **Build, don't watch** — Tutorials are followed by practice
-
-As I progress, folders will include:
-- Problem explanations and approach notes
-- Multiple solutions (brute force → optimized)
-- Edge cases and time complexity analysis
+- **Build, don't watch** — Active coding, not passive learning
 
 ---
 
@@ -135,56 +138,92 @@ As I progress, folders will include:
 - ❌ Inconsistent or abandoned
 
 **This repository:**
-- ✅ **Daily commits** showing real consistency
-- ✅ **Clear progression** from simple to complex
-- ✅ **Original code** with understanding
-- ✅ **Long-term commitment** (building for 6+ months)
+- ✅ **Daily commits** showing real consistency (17 days unbroken)
+- ✅ **Clear progression** from simple to complex (129 programs!)
+- ✅ **Original code** with deep understanding
+- ✅ **Long-term commitment** (building for 8+ months)
 - ✅ **Honest learning** (includes mistakes, refactors, improvements)
 
 ---
 
-## 🔍 Skills Being Developed
+## 🔍 Skills Mastered So Far
 
-### ✅ Currently Mastered:
-- Python syntax and fundamentals
-- Data structures (lists, tuples, dicts, sets)
-- Control flow (loops, conditionals)
-- String manipulation
-- Basic algorithms (search, sort, count, max/min)
-- Problem decomposition
-- Clean code practices
+### ✅ Module 1: Fundamentals (Days 1-10)
+**Topics:**
+- Variables, data types, type casting
+- Conditionals (if/elif/else)
+- String methods and manipulation
+- Lists, tuples, sets
+- For loops and while loops
+- Dictionaries and hash maps
+- List/dict comprehensions
+- Basic algorithms (search, sort, count)
 
-### 🔄 Currently Learning:
-- Functions and recursion
-- Object-oriented programming
-- File handling
-- Error handling
-- Modular programming
+**Programs:** 71  
+**Key Achievement:** Solid Python syntax and problem-solving foundation
 
-### 🚀 Future Skills:
-- Data structures & algorithms
-- Automation with Python
-- API development (FastAPI)
-- AI/LLM integration (LangChain, RAG)
-- Voice AI systems
-- Production deployment
+---
+
+### ✅ Module 2: Functions (Days 11-13)
+**Topics:**
+- Function definition and calling
+- Parameters and return values
+- Default parameters
+- List processing with functions
+- String processing with functions
+- Algorithm implementation (factorial, prime, digit operations)
+- Boolean returns and logical functions
+
+**Programs:** 28  
+**Key Achievement:** Code reusability and modular thinking
+
+---
+
+### ✅ Module 3: Recursion (Days 14-17)
+**Topics:**
+- Print-based recursion (ascending/descending)
+- Return-based recursion (sum, factorial, power)
+- Array recursion (sum list, min/max, sorted check)
+- String recursion (reverse, palindrome, vowel count)
+- Advanced patterns (Fibonacci, GCD, prime check)
+- Search patterns (first/last occurrence, count)
+
+**Programs:** 30  
+**Key Achievement:** Recursive thinking and divide-and-conquer approach
+
+---
+
+## 🔄 Currently Working On
+
+### Module 4: File I/O (Days 18-19)
+- Reading and writing files
+- Working with CSV files
+- JSON file operations
+- File handling best practices
+- Error handling with files
+
+**Expected:** 10-12 programs  
+**Status:** Starting soon
 
 ---
 
 ## 🎯 My Goal
 
-**Short-term (3 months):**
-- Master Python fundamentals and OOP
-- Build 150+ practice programs
+**Short-term (Next 2 weeks):**
+- Complete File I/O module (Days 18-19)
+- Complete OOP module (Days 20-23)
+- Reach 150+ programs milestone
+
+**Mid-term (3 months):**
+- Master Python fundamentals completely
 - Start AI projects with LangChain
+- Build RAG systems and chatbots
 
-**Mid-term (6 months):**
-- Build 30+ AI projects (chatbots, RAG systems, voice AI)
-- Contribute to open source
-
-**Long-term (8 months):**
-- Strong portfolio of production-ready projects
-- Interview-ready for opportunities
+**Long-term (8 months - August 2026):**
+- 30+ AI projects portfolio
+- Production-ready applications
+- Interview-ready for AI Engineering roles
+- Remote job: $2,000-$4,000/month OR Freelancing: $2,000+/month
 
 ---
 
@@ -194,22 +233,32 @@ As I progress, folders will include:
 # Clone the repository
 git clone https://github.com/27raj-giri/python-practice.git
 
-# Navigate to any day
-cd python-practice/fundamentals/day-01-variables-conditionals
+# Navigate to any module
+cd python-practice/01-fundamentals/day-01-variables-conditionals
 
 # Run any program
 python square_area.py
+
+# Or explore functions module
+cd ../../02-functions/day-11-functions-basics
+python sum_two_numbers.py
+
+# Or try recursion
+cd ../../03-recursion/day-14-recursion-basics
+python print_1_to_n.py
 ```
 
 **For learners:**
 - Follow the day-wise progression
 - Try solving before looking at solutions
 - Read the README in each folder
+- Check the notes/ folder for complete reference
 
 **For recruiters:**
-- Check commit history for consistency
-- See the progression from Day 1 to current
-- Note the daily discipline and growth
+- Check commit history for consistency (17 days unbroken!)
+- See the progression from Day 1 to Day 17
+- Note the daily discipline and exponential growth
+- Review the notes/ folder for documentation skills
 
 ---
 
@@ -217,38 +266,69 @@ python square_area.py
 
 | Metric | Value |
 |--------|-------|
-| **Total Programs** | 71 |
-| **Total Days Active** | 10 |
-| **Current Streak** | 🔥 10 days |
-| **Longest Streak** | 🔥 10 days |
-| **Lines of Code** | ~900+ |
-| **Average Programs/Day** | 7.1 |
-| **Topics Covered** | 15+ |
-| **Files Created** | 88+ |
+| **Total Programs** | 129 |
+| **Total Days Active** | 17 |
+| **Current Streak** | 🔥 17 days |
+| **Longest Streak** | 🔥 17 days |
+| **Lines of Code** | ~1,500+ |
+| **Average Programs/Day** | 7.6 |
+| **Topics Mastered** | 25+ |
+| **Files Created** | 140+ |
+| **Total Hours** | 70+ |
+
+---
+
+## 📊 Progress Breakdown
+
+### Programs by Category:
+- **Variables & Conditionals:** 15 programs
+- **Strings & Lists:** 18 programs  
+- **Loops:** 17 programs  
+- **Dictionaries & Sets:** 21 programs  
+- **Functions (Basic):** 10 programs  
+- **Functions (Intermediate):** 9 programs  
+- **Functions (Advanced):** 9 programs  
+- **Recursion (Level 1-2):** 14 programs  
+- **Recursion (Level 3-4):** 16 programs  
+
+### Difficulty Distribution:
+- **Beginner:** 45 programs (35%)
+- **Intermediate:** 60 programs (46%)
+- **Advanced:** 24 programs (19%)
 
 ---
 
 ## 🚀 Future Roadmap
 
-### This repository will evolve to include:
+### Days 18-19 (This Week):
+- File I/O operations
+- CSV/JSON handling
+- Error management
+- ~12 programs
 
-**Month 2 (Days 31-60):**
-- Python OOP projects
-- File handling & error management
-- Mini automation scripts
-- Data structure implementations
+### Days 20-23 (Next Week):
+- Object-Oriented Programming
+- Classes & Objects
+- Inheritance & Polymorphism
+- ~20 programs
 
-**Month 3-4 (Days 61-120):**
-- API development with FastAPI
-- LangChain & RAG systems
-- AI chatbot projects
+### Month 2 (February 2026):
+- Hitesh's AI & LLM Bootcamp
+- LangChain basics
+- First AI chatbot
+- RAG system fundamentals
+
+### Month 3-4 (March-April 2026):
+- 15+ AI projects
 - Voice AI applications
+- Production deployments
+- Freelance work begins
 
-**Month 5-6 (Days 121-180):**
-- Production AI projects
-- Interview preparation problems
-- Real-world automation tools
-- Portfolio-ready applications
+### Month 5-8 (May-August 2026):
+- 30+ portfolio projects
+- Interview preparation
+- Job applications
+- Placement season ready!
 
 **The journey continues... 🚀**
 
@@ -256,21 +336,26 @@ python square_area.py
 
 ## 📌 Important Notes
 
-### Why Programs Start Simple
+### Why Start Simple, Then Scale?
 
-Early programs focus on **fundamentals** because:
-- Syntax mastery comes before complex logic
-- Understanding basics deeply prevents future confusion
-- Strong foundations make advanced topics easier
-- Interview questions test fundamentals, not just advanced concepts
+**Days 1-10:** Foundation building (variables, loops, conditionals)  
+**Days 11-13:** Code organization (functions, modularity)  
+**Days 14-17:** Advanced thinking (recursion, algorithms)  
+**Days 18+:** Real-world skills (files, OOP, projects)
+
+This progression is **intentional** because:
+- Can't solve complex problems without basics
+- Interview questions test fundamentals heavily
+- Strong foundation makes advanced topics easier
+- Muscle memory comes from repetition
 
 ### Why Daily Commits Matter
 
-Consistency demonstrates:
-- **Discipline** — Can maintain long-term commitment
+**17 consecutive days** demonstrates:
+- **Discipline** — Shows up regardless of motivation
 - **Growth mindset** — Learning is a daily practice
-- **Work ethic** — Shows up even when not motivated
-- **Real learning** — Not cramming before deadlines
+- **Work ethic** — Consistency over intensity
+- **Real learning** — Not cramming, genuine progress
 
 ### Authenticity Promise
 
@@ -278,9 +363,23 @@ Consistency demonstrates:
 - Was typed by me (not copy-pasted)
 - Was understood before being written
 - Represents real learning progression
-- Includes mistakes, refactors, and improvements
+- Includes my actual thought process
 
 This is **proof of genuine skill building**, not resume padding.
+
+---
+
+## 🏆 Milestones Achieved
+
+- ✅ **Day 1:** First program written!
+- ✅ **Day 5:** 35 programs milestone
+- ✅ **Day 10:** 71 programs, fundamentals complete!
+- ✅ **Day 13:** 99 programs, functions mastered!
+- ✅ **Day 15:** 100+ programs milestone! 🎉
+- ✅ **Day 17:** 129 programs, recursion complete!
+- 🎯 **Day 20:** 150 programs (coming soon)
+- 🎯 **Day 30:** 200 programs
+- 🎯 **Day 60:** First AI project deployed
 
 ---
 
@@ -292,11 +391,19 @@ This is **proof of genuine skill building**, not resume padding.
 
 ---
 
-## 💡 Inspiration & Motivation
+## 💡 Lessons Learned (So Far)
 
-> *"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie
+> **"Consistency compounds faster than talent."**
 
-> *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
+After 17 days of daily coding:
+
+1. **Small daily wins > Big sporadic efforts**
+2. **Type it, don't copy it** — Muscle memory is real
+3. **Understand the 'why'** — Syntax without logic is useless
+4. **Document as you go** — Future self will thank you
+5. **Green squares are addictive** — Don't break the streak!
+6. **Recursion is beautiful** — Once it clicks, it's magic
+7. **Functions make everything better** — DRY principle works
 
 ---
 
@@ -320,21 +427,27 @@ Feel free to learn from it, but please don't copy-paste for your own portfolio. 
 
 ## 🔥 Current Status
 
-**Day 10 complete. 71 programs built. Fundamentals mastered.**
+**Day 17 complete. 129 programs built.**
 
-**Next up:** Functions & Recursion (Days 11-20)
+**Fundamentals ✅ Functions ✅ Recursion ✅**
+
+**Next up:** File I/O (Days 18-19)
+
+**After that:** OOP (Days 20-23)
 
 **Long-term goal:** AI Engineering role by August 2026
 
-**Commitment:** Daily coding until goal achieved
+**Commitment:** Daily coding until goal achieved. No breaks. No excuses.
 
 ---
 
-**Last Updated:** December 24, 2025  
-**Next Update:** Day 11 - Functions begin!
+**Last Updated:** December 31, 2025  
+**Next Update:** Day 18 - File I/O begins!
 
 ---
 
-*"Small daily improvements lead to stunning results over time."*
+*"The journey of 129 programs began with a single line of code."*
+
+**17 days down. 234 days until placement season.**
 
 **Let's keep building. 🚀**
