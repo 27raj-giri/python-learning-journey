@@ -1,4 +1,0 @@
-text = "Python Developer"
-
-result = text.replace('a' , '').replace('e', '').replace('i', '').replace('o', '').replace('u', '') 
-print(result)
