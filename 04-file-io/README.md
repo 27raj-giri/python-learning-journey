@@ -246,4 +246,4 @@ with open('input.txt', 'r') as inp:
 
 **File I/O Module Complete! Ready for OOP! 🚀**
 
-**Next:** Object-Oriented Programming (Days 24-27)
+**Next:** Object-Oriented Programming
