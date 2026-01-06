@@ -155,8 +155,7 @@ with open('file.txt', 'a') as file:
 - Encapsulation
 - Real-world OOP projects
 
-Expected: 20-25 programs over 4-5 days
-
 ---
+
 
 **FILE I/O MASTERED! Ready for OOP! 💪**
