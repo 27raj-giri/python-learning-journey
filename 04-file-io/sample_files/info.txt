@@ -1,0 +1,6 @@
+Hello, World!
+This is a sample text file for testing.
+It contains multiple lines of text.
+Some words are ALREADY uppercase.
+Numbers like 123 and symbols like @#$ remain unchanged.
+Let's see how the conversion works!
