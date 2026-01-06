@@ -1,0 +1,3 @@
+python is a popular language.
+I like python programming.
+Many developers start with python.
