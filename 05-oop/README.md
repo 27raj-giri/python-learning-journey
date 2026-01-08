@@ -556,7 +556,3 @@ This module was completed while balancing semester exams, demonstrating consiste
 *Author: Aayush Raj Giri*  
 *GitHub: github.com/27raj-giri*
 ```
-
-**Remaining:** 142,000 tokens (74.7%)
-```
-[████████████░░░░░░░░░░░░░░░░░░░░] 25.3% used
