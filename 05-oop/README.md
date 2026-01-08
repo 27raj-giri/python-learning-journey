@@ -48,7 +48,7 @@ Complete Object-Oriented Programming (OOP) module covering classes, objects, inh
 
 ## 🎯 LEARNING OBJECTIVES
 
-By the end of this module, you will master:
+By the end of this module, I will master:
 
 ✅ **Classes & Objects**
 - Creating classes and objects
@@ -442,7 +442,7 @@ Mini Projects:          3 projects (Days 37-39)
 
 ## 💡 REAL-WORLD APPLICATIONS
 
-**What you can build now:**
+**What I can build now:**
 - ✅ Library management systems
 - ✅ Banking applications
 - ✅ Student record systems
@@ -528,12 +528,8 @@ Mini Projects:          3 projects (Days 37-39)
 ## 📝 NOTES
 
 **Built During:** 5th Semester Exams (Jan 8-25, 2026)  
-**Strategy:** Pre-coded, daily push during exams  
 **Maintained:** Daily GitHub streak  
 **Portfolio:** Part of python-learning-journey repo
-
-**Special Note:**  
-This module was completed while balancing semester exams, demonstrating consistency and time management. All programs coded in advance, pushed daily to maintain GitHub streak.
 
 ---
 
@@ -555,4 +551,3 @@ This module was completed while balancing semester exams, demonstrating consiste
 *Repository: python-learning-journey/05-oop*  
 *Author: Aayush Raj Giri*  
 *GitHub: github.com/27raj-giri*
-```
