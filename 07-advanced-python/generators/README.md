@@ -67,8 +67,3 @@ day-45-memory-advanced/       # 3-4 programs (optional)
 
 **Days:** 40-45 | **Next:** Decorators (Day 46)
 ```
-
-
-**Remaining:** 49,000 tokens (25.8%)
-```
-[██████████████████████████░░░░░░░] 74.2% used
