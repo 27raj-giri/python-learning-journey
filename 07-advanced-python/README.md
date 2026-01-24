@@ -31,4 +31,4 @@ asyncio/           # Days 46-47 (TBD)
 
 ---
 
-**Module:** Advanced Python | **Days:** 40-47/222
+**Module:** Advanced Python | **Days:** 40-47
