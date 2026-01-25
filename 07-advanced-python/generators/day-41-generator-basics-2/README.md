@@ -62,4 +62,3 @@ python 07_manual_next.py
 
 **Day:** 41 | **Programs:** 4/4  
 **Next:** Day 42 (Execution Flow Deep Dive)
-```
