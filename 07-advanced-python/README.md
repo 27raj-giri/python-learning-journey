@@ -2,25 +2,25 @@
 
 Essential advanced concepts for AI development with FastAPI and LangChain.
 
-## 🎯 Topics
+## Topics
 
 | Days | Topic | Programs | Status |
 |------|-------|----------|--------|
 | 40-46 | Generators | 21 | ✅ |
 | 47+ | AI Bootcamp | - | 🚀 |
 
-## 🚀 Why This Matters for AI
+## Why This Matters for AI
 
 **Generators** → Streaming LLM responses, memory-efficient data processing, RAG pipelines  
 **FastAPI** → Will learn in bootcamp with decorators in context  
 **Asyncio** → Will learn in bootcamp with concurrent AI operations  
 
-## 📂 Structure
+## Structure
 ```
 generators/         # Days 40-46 (21 programs) ✅ COMPLETE
 ```
 
-## 📊 Progress
+## Progress
 
 - [x] Days 40-46: Generators ✅ **COMPLETE**
 - [x] Advanced patterns: Pipelines, .send(), yield from ✅
