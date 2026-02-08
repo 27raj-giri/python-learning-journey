@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 1. [File Modes](#file-modes)
 2. [Basic Operations](#basic-operations)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🔑 File Modes
+## File Modes
 
 | Mode | Meaning | Creates File? | Overwrites? | Read | Write |
 |------|---------|---------------|-------------|------|-------|
@@ -32,7 +32,7 @@
 
 ---
 
-## 📂 Basic Operations
+## Basic Operations
 
 ### Opening Files
 ```python
@@ -70,7 +70,7 @@ file.writelines(['Line 1\n', 'Line 2\n'])
 
 ---
 
-## 📖 Reading Patterns
+## Reading Patterns
 
 ### Pattern 1: Read Entire File
 ```python
@@ -128,7 +128,7 @@ with open('file.txt', 'r') as f:
 
 ---
 
-## ✍️ Writing Patterns
+## Writing Patterns
 
 ### Pattern 1: Create New File
 ```python
@@ -168,7 +168,7 @@ with open('names.txt', 'w') as f:
 
 ---
 
-## 🔄 Processing Patterns
+## Processing Patterns
 
 ### Pattern 1: Process Numbers
 ```python
@@ -232,7 +232,7 @@ print(f'Maximum: {max_num}')
 
 ---
 
-## ✅ Best Practices
+## Best Practices
 
 ### 1. Always Use `with` Statement ⭐
 ```python
@@ -283,7 +283,7 @@ with open('numbers.txt', 'r') as f:
 
 ---
 
-## 🎯 Common Patterns Quick Reference
+## Common Patterns Quick Reference
 
 ### Copy File
 ```python
@@ -333,7 +333,7 @@ print(f'ERROR count: {count}')
 
 ---
 
-## 🎓 Interview Questions
+## Interview Questions
 
 ### Q1: Difference between `read()`, `readline()`, `readlines()`?
 
@@ -376,7 +376,7 @@ print(f'Size: {size} bytes')
 
 ---
 
-## 📊 Summary
+## Summary
 
 **30 Programs Covering:**
 - ✅ File modes (r, w, a)
@@ -393,4 +393,4 @@ print(f'Size: {size} bytes')
 
 ---
 
-**Days:** 18-23/222 | **Next:** OOP (Days 24-39) 🚀
+**Days:** 18-23 | **Next:** OOP (Days 24-39) 
