@@ -2,19 +2,43 @@
 
 Complete reference documentation for my Python journey.
 
-## Notes Available:
+## 📖 Notes Available:
 
-- **[Python Fundamentals](./python-fundamentals.md)** - Days 1-17 complete reference
-  - Variables, conditionals, loops
-  - Strings, lists, dictionaries
-  - Functions and recursion
-  - All patterns and examples
+### ✅ Python Fundamentals
+**File:** [python-fundamentals.md](./python-fundamentals.md)  
+**Coverage:** Days 1-10  
+- Variables, data types, operators
+- Conditionals (if/elif/else)
+- Strings, lists, tuples, sets, dictionaries
+- Loops (for, while)
+- List/dict comprehensions
 
-## How to Use:
+### ✅ Python Functions
+**File:** [python-functions.md](./python-functions.md)  
+**Coverage:** Days 11-13  
+- Function basics (def, parameters, return)
+- Default arguments, *args, **kwargs
+- Lambda functions
+- Function patterns
 
-- Quick syntax lookup
-- Review before interviews
-- Reference while coding
-- Pattern library
+### ✅ Python File I/O
+**File:** [python-file-io.md](./python-file-io.md)  
+**Coverage:** Days 18-23  
+- File modes (r, w, a)
+- Reading/writing patterns
+- Text processing
+- Number processing from files
+- Best practices (with statement)
 
-**Last Updated:** December 31, 2025
+## 🎯 How to Use:
+
+✅ **Quick syntax lookup** - Find patterns fast  
+✅ **Interview prep** - Review before coding tests  
+✅ **Reference while coding** - Copy-paste patterns  
+✅ **Pattern library** - Real-world examples  
+
+---
+
+**Total Notes:** 3 complete references  
+**Coverage:** Days 1-23 (Fundamentals, Functions, File I/O)  
+**Last Updated:** January 30, 2026
