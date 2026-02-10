@@ -6,16 +6,12 @@ Complete reference documentation for my Python journey.
 
 ### ✅ Python Fundamentals
 **File:** [python-fundamentals.md](./python-fundamentals.md)  
-**Coverage:** Days 1-10  
+**Coverage:** Days 1-17  
 - Variables, data types, operators
 - Conditionals (if/elif/else)
 - Strings, lists, tuples, sets, dictionaries
 - Loops (for, while)
-- List/dict comprehensions
-
-### ✅ Python Functions
-**File:** [python-functions.md](./python-functions.md)  
-**Coverage:** Days 11-13  
+- List/dict comprehensions\
 - Function basics (def, parameters, return)
 - Default arguments, *args, **kwargs
 - Lambda functions
